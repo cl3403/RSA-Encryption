@@ -1,9 +1,7 @@
 # RSA-Encryption
 Implemented RSA algorithm for encryption (C++).
 
-Orginally done as a class project at Franklin & Marshall College, it contains 3 main programs and the command 'make all' will compile the entire project. Alternatively, the program may compile according to the directions below.
-(Even though projects are different for each semester, class number and title are not included here to avoid any plagiarism issue)
-
+It contains 3 main programs and the command 'make all' will compile the entire project. Alternatively, the program may compile according to the directions below.
 
 
 ---keygen---
